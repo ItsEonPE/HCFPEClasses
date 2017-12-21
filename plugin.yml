@@ -1,0 +1,9 @@
+name: HCFClasses
+main: eon\Classes\Main
+version: 1
+author: "eon"
+description: Plugin That Adds Classes for a HCF Server.
+api:
+- 3.0.0
+- 3.0.0-ALPHA8
+- 3.0.0-ALPHA9
